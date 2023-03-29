@@ -1,10 +1,11 @@
 import  { FC } from 'react';
 import './App.css';
-import { SemiDonut } from './components';
+import { ReactGaugeChart, SemiDonut } from './components';
 
 export const App: FC = () => {
   return (
     <div className="App">
+      <ReactGaugeChart />
       <SemiDonut />
     </div>
   );
