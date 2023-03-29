@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Charts Playground
+
+Repo to explore various chart / graph libraries.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
